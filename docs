@@ -1,4 +1,4 @@
-# FA#FAQ
+# FAQ
 
 Q: How to run the calculator?  
 A: Open terminal → `python calculator.py` inside `calculator/` folder
