@@ -1,1 +1,10 @@
+# FA#FAQ
 
+Q: How to run the calculator?  
+A: Open terminal → `python calculator.py` inside `calculator/` folder
+
+Q: What Python version is required?  
+A: Python 3.10 or higher
+
+Q: Can I contribute?  
+A: Yes! See CONTRIBUTING.md for guidelines
