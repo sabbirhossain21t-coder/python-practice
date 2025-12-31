@@ -10,17 +10,21 @@ This repository contains beginner-friendly Python projects focused on Calculator
 - Sum Numbers
 - Mini Quiz Game
 
-## How to Run
-1. Install Python
-2. Open terminal / command prompt
-3. Navigate to the project folder
-4. Run:
-```bash
-python calculator.py
+## How to Run Any Project
+
+1. Install Python 3
+2. Go to the project folder
+3. Run the Python file
+
+
 
 ## Contributing
 Contributions are welcome.
 Please read CONTRIBUTING.md before contributing.
 
-##License
-This repository is licensed under the MIT License.
+## License
+This repository is licensed under the MIT License
+
+Example:
+```bash
+python project_name/main.py
